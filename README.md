@@ -1,0 +1,3 @@
+This is a copy of the scripts I rewrote for OS1337, but I'm heavily modifying them to try some more traditional, larger Linux builds and try out experimental changes before commiting to the main project. Some changes made here will likely end up back with the main project, but other probably won't.
+
+Highly experimental and possibly not working, so basing things of this at the moment may not be the best of ideas...

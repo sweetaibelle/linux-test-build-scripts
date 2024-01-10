@@ -1,0 +1,1 @@
+This is where anything being built by the scripts will go. Usually, there will be a downloads directory, a working directory, plus one for the profile you are building.
