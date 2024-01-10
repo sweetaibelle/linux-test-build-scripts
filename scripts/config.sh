@@ -7,13 +7,13 @@ cross_dir=i486-linux-musl-cross/bin/i486-linux-musl-
 # Directories to use
 mount_dir=/mnt/os1337-fdd
 #profile_dir=profile/core
-profile_dir=profile/chonky
+profile_dir=profile/test
 
 source ./$profile_dir/config.sh
 
 # Download Information
 # Versions
-linux_version="6.6.7"
+linux_version="6.7"
 toybox_version="0.8.10"
 musl_version="1.2.4"
 dropbear_version="2022.83"
