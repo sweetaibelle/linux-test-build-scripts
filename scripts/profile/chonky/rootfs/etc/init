@@ -1,0 +1,10 @@
+#!/bin/toybox bash
+/bin/toybox mount -t proc none /proc
+/bin/toybox mount -t sysfs none /sys
+/bin/toybox clear
+#/bin/toybox openvt -c 1 -s sh
+/bin/toybox uname
+/bin/toybox uname -r
+/bin/toybox cat welcome.txt
+#/bin/toybox bash
+/bin/toybox oneit -n -c /dev/tty0 /bin/sh
